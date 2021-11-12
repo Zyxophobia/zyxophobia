@@ -1,6 +1,4 @@
-# hello. i'm box.
-
-**this github profile is only here for a code vault and for developing private projects.** check out my [gitlab](https://gitlab.com/boxsupremacy) for my most recent projects.
+# hello. i'm rhearmas.
 
 i'm a front-end web designer (HTML, CSS, JavaScript). my most notable projects are my [website](https://rhearm.as) and my [discord bot](https://gitlab.com/boxsupremacy/cardboardbox). i also work on the discord bot for [sounddrout](https://www.youtube.com/c/SoundDrout).
 
