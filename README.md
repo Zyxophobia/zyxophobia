@@ -1,4 +1,4 @@
-### Hey there 👋 I’m nullPasswd
+### Hey there 👋 I’m nullpasswd
 
 I'm a (work in progress) web developer from the United States. I focus primarily on TypeScript — more specifically, [🪁 Svelte](https://svelte.dev)([Kit](https://kit.svelte.dev)) and eventually [⚛️ React](https://reactjs.org)! I'm very active in [Replit](https://replit.com)'s community, providing support for intrigued code-doers and kickstarting projects before I transfer them to GitHub.
 
